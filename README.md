@@ -35,13 +35,10 @@ Currently open to **AI**, **Full-Stack**, and **Software Engineering** opportuni
 - JavaScript (ES6+)
 - Python
 - SQL
-- C
-- C++
 
 ### Frontend
 - React
-- HTML
-- CSS
+- Tailwind CSS
 
 ### Backend
 - Node.js
@@ -70,9 +67,6 @@ Currently open to **AI**, **Full-Stack**, and **Software Engineering** opportuni
 ### Tools
 - Git
 - GitHub
-- Vercel
-- Render
-- VS Code
 
 ---
 
