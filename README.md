@@ -1,34 +1,90 @@
-# Abdullah Butt — Data Analyst
+# Abdullah Butt
 
-Data Analyst | Solving Business Problems with SQL, Excel, Power BI & Python
+**Full-Stack Developer | AI Applications | Data Analytics**
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Data%20Analyst%20Roles-brightgreen)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Plotly-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Power%20Query-217346?logo=microsoftexcel&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-AI%20%7C%20Full%20Stack%20%7C%20Data%20Roles-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
 
-I turn raw business data into decisions that actually get acted on.
-Background in full-stack development (MERN) means I understand the systems
-that produce the data, not just how to analyze it.
+I build AI-powered web applications using React, Node.js, Express.js, and Python. My recent work focuses on integrating LLMs, OCR, and automation into practical applications that solve real-world problems.
 
-Currently open to **remote Data Analyst roles**.
+Alongside software development, I also have experience in data analytics using SQL, Python, Pandas, Power BI, Excel, and Streamlit.
 
-## Live Projects
+Currently open to **AI**, **Full-Stack**, and **Software Engineering** opportunities.
 
-| Project | Tools | Live |
-|---|---|---|
-| Olist E-Commerce Intelligence | Python, Pandas, Plotly, Streamlit | [Demo](https://olist-intelligence.streamlit.app/) |
-| Amazon Sentiment Analyzer | Python, Scikit-learn, VADER, Streamlit | [Demo](https://amazon-reviews-sentiment-analyzer.streamlit.app/) |
-| Website Traffic Dashboard | Python, Pandas, Plotly, Streamlit | [Demo](https://website-traffic-analysis-dashboard.streamlit.app/) |
-| Retail Sales SQL Dashboard | PostgreSQL, SQLPage | [Demo](https://imab50-retail-sales-dashboard.hf.space/index.sql) |
-| HR Attrition Analysis | Excel, Power Query, Pivot Table | [Demo](https://1drv.ms/x/c/5e946e4499e3394d/IQBwG1x5SzqPSIOFyPsTWI4ZAZv7Fy2Bb9wzFM7xsst3QrU?e=25APTc) |
+---
 
-## Stack
+## 🚀 Featured Projects
 
-SQL (PostgreSQL) · Python · Pandas · Plotly · Streamlit · Power BI · Excel
+| Project | Description | Live |
+|---------|-------------|------|
+| **BrandTrace** | AI-powered brand detection from retail product images using Gemini, OCR.space, and Groq. | https://brandtrace.vercel.app |
+| **AI Assignment Maker** | Generates structured assignments using LLMs with a simple web interface. | https://ai-assignment-maker.vercel.app |
+| **StemFlow** | AI-powered educational web application. | https://stemflow-ai.vercel.app |
+| **Olist E-Commerce Intelligence** | Interactive analytics dashboard built with Streamlit. | https://olist-intelligence.streamlit.app |
+| **Amazon Sentiment Analyzer** | Sentiment analysis dashboard for Amazon reviews. | https://amazon-reviews-sentiment-analyzer.streamlit.app |
 
-## Connect
+---
 
-[Portfolio](https://abdullahbutt.vercel.app) · [LinkedIn](https://linkedin.com/in/abdullah-butt-da)
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript (ES6+)
+- Python
+- SQL
+- C
+- C++
+
+### Frontend
+- React
+- HTML
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### AI & APIs
+- Google Gemini API
+- Groq API
+- Hugging Face Inference API
+- OCR.space
+- PaddleOCR
+
+### Data Analytics
+- Pandas
+- NumPy
+- scikit-learn
+- Streamlit
+- Power BI
+- Excel
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Render
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Python for AI and automation
+- LLM application development
+- AI system design and deployment
+
+---
+
+## 📫 Connect
+
+- **Portfolio:** https://abdullahbutt.vercel.app
+- **LinkedIn:** https://linkedin.com/in/abdullah-butt-da
