@@ -42,7 +42,7 @@ Open to:
 ### 🚧 What I've built
 
 **PhoneLedger** — an inventory and billing system built for a mobile phone shop.
-You take a photo of a paper purchase bill, OCR reads it and pulls out the details, and the item gets added to inventory automatically. When a sale bill comes in, OCR checks it against inventory and removes the sold item on its own. Expenses are logged separately, and profit is calculated automatically from purchases, sales, and expenses. Built to solve a real, recurring problem for a real shop. Currently reworking it from a shop-specific tool into a general product any small retailer could use.
+You take a photo of a paper purchase bill, OCR reads it and pulls out the details, and the item gets added to inventory automatically. When a sale bill comes in, OCR checks it against inventory and removes the sold item on its own. Expenses are logged separately, and profit is calculated automatically from purchases, sales, and expenses. Built to solve a real, recurring problem for a real shop.
 Stack: Next.js, Supabase, OCR, TypeScript
 
 **AI Assignment Maker** — takes a topic and turns it into a fully formatted, exportable document, with live readability scoring and citation generation.
