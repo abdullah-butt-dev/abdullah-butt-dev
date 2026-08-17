@@ -1,84 +1,65 @@
-# Abdullah Butt
+<h1 align="center">Hi, I'm Abdullah 👋</h1>
+<h3 align="center">Full-stack developer building automation and AI tools for ecommerce</h3>
 
-**Full-Stack Developer | AI Applications | Data Analytics**
-
-![Open to Work](https://img.shields.io/badge/Open%20to-AI%20%7C%20Full%20Stack%20%7C%20Data%20Roles-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
-
-I build AI-powered web applications using React, Node.js, Express.js, and Python. My recent work focuses on integrating LLMs, OCR, and automation into practical applications that solve real-world problems.
-
-Alongside software development, I also have experience in data analytics using SQL, Python, Pandas, Power BI, Excel, and Streamlit.
-
-Currently open to **AI**, **Full-Stack**, and **Software Engineering** opportunities.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-butt-da" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdullah.butt.da@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abdullahbutt.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 About me
 
-| Project | Description | Live |
-|---------|-------------|------|
-| **BrandTrace** | AI-powered brand detection from retail product images using Gemini, OCR.space, and Groq. | https://brandtrace.vercel.app |
-| **AI Assignment Maker** | Generates structured assignments using LLMs with a simple web interface. | https://ai-assignment-maker.vercel.app |
-| **StemFlow** | AI-powered educational web application. | https://stemflow-ai.vercel.app |
-| **Olist E-Commerce Intelligence** | Interactive analytics dashboard built with Streamlit. | https://olist-intelligence.streamlit.app |
-| **Amazon Sentiment Analyzer** | Sentiment analysis dashboard for Amazon reviews. | https://amazon-reviews-sentiment-analyzer.streamlit.app |
+I'm a full-stack developer who builds automation and AI-integrated tools, mostly for ecommerce and small businesses.
 
----
+Most of my work sits at the point where a manual, repetitive task (copy-pasting orders, sending the same follow-up email, checking inventory by hand) turns into something that just runs on its own.
 
-## 🛠 Tech Stack
+I build with no-code tools like n8n when that's the fastest way to solve a problem, and I write custom backend code when the workflow needs logic those tools can't handle. I also have a background in data analytics, so I usually look at the data behind a process before I decide how to fix it.
 
-### Languages
-- JavaScript (ES6+)
-- Python
-- SQL
+```
+Name:      Abdullah Butt
+Focus:     Full-stack dev (MERN/Next.js), automation (n8n), AI-integrated apps
+Also know: Data analytics (Python, SQL, Power BI)
+Based in:  Multan, Pakistan
 
-### Frontend
-- React
-- Tailwind CSS
+Currently:
+  - AI Marketing Intern at FlyRank AI
 
-### Backend
-- Node.js
-- Express.js
-
-### Databases
-- PostgreSQL
-- MongoDB
-- SQLite
-
-### AI & APIs
-- Google Gemini API
-- Groq API
-- Hugging Face Inference API
-- OCR.space
-- PaddleOCR
-
-### Data Analytics
-- Pandas
-- NumPy
-- scikit-learn
-- Streamlit
-- Power BI
-- Excel
-
-### Tools
-- Git
-- GitHub
+Open to:
+  - Freelance web dev and automation projects
+  - Small business automation work
+```
 
 ---
 
-## 🌱 Currently Learning
+### 🚧 What I've built
 
-- Python for AI and automation
-- LLM application development
-- AI system design and deployment
+**PhoneLedger** — an inventory and billing system built for a mobile phone shop.
+You take a photo of a paper purchase bill, OCR reads it and pulls out the details, and the item gets added to inventory automatically. When a sale bill comes in, OCR checks it against inventory and removes the sold item on its own. Expenses are logged separately, and profit is calculated automatically from purchases, sales, and expenses. Built to solve a real, recurring problem for a real shop. Currently reworking it from a shop-specific tool into a general product any small retailer could use.
+Stack: Next.js, Supabase, OCR, TypeScript
+
+**AI Assignment Maker** — takes a topic and turns it into a fully formatted, exportable document, with live readability scoring and citation generation.
+Stack: React, Node.js, Groq, Hugging Face
 
 ---
 
-## 📫 Connect
+### ⚙️ Tech I work with
 
-- **Portfolio:** https://abdullahbutt.vercel.app
-- **LinkedIn:** https://linkedin.com/in/abdullah-butt-da
+![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,python&theme=dark)
+
+**Automation & AI:** n8n · OpenRouter · Groq · Hugging Face · OCR
+**Data:** Pandas · PostgreSQL · Power BI · Streamlit
+**Deploy:** Vercel · GitHub · Hugging Face Spaces
+
+---
+
+### 📫 Let's talk
+
+If your business has a workflow that's slow, manual, or held together with copy-paste, or if you need something built from scratch, feel free to reach out.
